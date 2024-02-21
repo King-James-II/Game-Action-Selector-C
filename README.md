@@ -1,4 +1,4 @@
-# VG Action Selector
+# Video Game Action Selector
 
 This simple C program allows users to select actions commonly seen in video games, such as Attack, Defend, Jump, or Run. It prompts the user to choose an action and provides appropriate feedback based on the chosen action.
 
